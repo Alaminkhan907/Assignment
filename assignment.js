@@ -76,5 +76,4 @@ function megaFriend(names){
 var friend =['Alamin khan','shakil ahmed','Anghella Murawskaya ','Alexandra ivanova','Bruno Rucy Carneiro Alves de Lima','Sarang Katyare'];
 megaFriend(friend);
 
-
 //The End
